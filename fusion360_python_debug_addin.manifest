@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"07253636-5ebb-4bea-ad09-f9988916eb6a",
+	"author":	"",
+	"description":	{
+		"":	"Allows remote launching and debugging of Fusion 360 python scripts using pydevd (PyCharm, IDEA, etc)"
+	},
+	"version":	"",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
